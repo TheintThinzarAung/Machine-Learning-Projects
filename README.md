@@ -2,7 +2,7 @@
 This repository contains machine learning projects that demonstrate my ability to build, train, and evaluate machine learning models using Python. 
 
 ## Projects:
-- **🏡 House Price Prediction**: This project focuses on predicting house prices using **Decision Tree** and **Random Forest** models. The dataset undergoes **data exploration, feature selection, and model evaluation** to determine the best predictive approach.  
+- **🏡 House Price Prediction**: This project focuses on predicting house prices using **Decision Tree** and **Random Forest** models. The dataset undergoes **data exploration, feature selection, and model evaluation** to determine the best predictive approach.  https://github.com/TheintThinzarAung/Machine-Learning-Projects/tree/main/House_Price_Prediciton
 
 
 
